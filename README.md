@@ -1,6 +1,3 @@
-# Python Final Project
-98mathz-a11y (well, tbh, he only wrote 1 line in the ENTIRE project), Wal0fsky working on a small project using the python library pygame
-
 A small top-down Pygame arcade game built in Python. The player controls a UFO-like ship, moves around the screen, shoots projectiles, and avoids enemies that spawn around the edges and move toward the player.
 
 ## Features
